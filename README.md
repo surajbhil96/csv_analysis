@@ -7,7 +7,7 @@ This project was done by me as a assignment for an internship.
 <h4>Part 1:</h4>
 <ol>
     <li>Create a web-app where user can upload csv files.</li>
-    <li>User can view his/her uploaded files.</li>
+    <li>Implement a form that allows users to upload CSV files. Store the uploaded files temporarily for processing..</li>
 </ol>
 
 <h4>Features:</h4>
@@ -26,7 +26,12 @@ This project was done by me as a assignment for an internship.
     <li>JavaScript</li>
 </ul>
 
-<h2>Usage :</h2>
+<h2>Usage :</h2> 
+    Download the Zip file 
+
+    Unzip this file 
+
+    Open this files in VS Code and run the following commands 
 
     python django_web_app/manage.py makemigrations
 
