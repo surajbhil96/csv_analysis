@@ -32,9 +32,11 @@ This project was done by me as a assignment for an internship.
     Step 2:   Unzip the File.
     Step 3:   Open that Folder in the VS Code.
     Step 4:   Download all requirements as         $ pip install -r requirements.txt
-    Step 5:   python manage.py makemigrations
-    Step 6:   python manage.py migrate
-    Step 7:   python manage.py runserver
+    Step 5:   run command           $ python manage.py makemigrations
+    Step 6:   $ python manage.py migrate
+    Step 7:   $ python manage.py runserver
+    Step 8:   select csv  file  and  click on upload. 
+    Step 9:   you will see the Output.
 
     
    In your web browser enter the address : http://localhost:8000 or http://127.0.0.1:8000/
