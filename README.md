@@ -1,91 +1,48 @@
-# Installation
+# Django-WebApp      
 
-Django Ledger is a [Django](https://www.djangoproject.com/) application. If you haven't, you need working knowledge of
-Django and a working Django project before you can use Django Ledger. A good place to start
-is [here](https://docs.djangoproject.com/en/4.2/intro/tutorial01/#creating-a-project).
+This project was done by me as a assignment for an internship.
 
-Make sure you refer to the django version you are using.
+<h2>Assignment Problem Statement:</h2>
 
-The easiest way to start is to use the zero-config  . See
-details [here]([https://github.com/surajbhil96/csv_analysis]). Otherwise, you may create your
-project from scratch.
+<h4>Part 1:</h4>
+<ol>
+    <li>Create a web-app where user can upload csv files.</li>
+    <li>User can view his/her uploaded files.</li>
+</ol>
 
-To create a new Django Ledger project:
+<h4>Features:</h4>
+<ol>
+     <li>Displaying the first few rows of the data..</li>
+     <li>TCalculating summary statistics (mean, median, standard deviation) for numerical columns..</li>
+     <li>Identifying and handling missing values..</li>
+     <li>Display the histogram plots on the given data</li>
+</ol>
+    
+<h2>Technologies Used:</h2>
+<ul>
+    <li>Python</li>
+    <li>Django</li>
+    <li>HTML</li>
+    <li>JavaScript</li>
+</ul>
 
-* Make sure you have the latest version of python [here](https://www.python.org/) (recommended).
+<h2>Usage :</h2>
 
-* Install Django:
+    python django_web_app/manage.py makemigrations
 
-```shell
-pip install django
-```
+    python django_web_app/manage.py migrate
 
-* Install Python [Pipenv](https://pipenv.pypa.io/en/latest/) (python package manager):
+    python django_web_app/manage.py runserver
+    
+   In your web browser enter the address : http://localhost:8000 or http://127.0.0.1:8000/
 
-```shell script
-pip install pipenv
-```
 
-* Go to your desired development folder and create a new django project:
+# Screenshots : 
+<img alt="GitHub" src="[https://github.com/surajbhil96/csv_analysis/blob/main/csv_analysis/analysis/templates/analysis/Demo%20Img/Demo%201.png]">
+<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_51.png" height="400" width="800">
+<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_44.png" height="400" width="800">
+<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_15_47.png" height="400" width="800">
+<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_16_14.png" height="400" width="800">
+<img src="Screenshots/Django WebApp - Google Chrome 04-12-2019 13_41_50.png" height="400" width="800">
+<img src="Screenshots/Django WebApp - Google Chrome 03-12-2019 20_48_45.png" height="400" width="800">
 
-```shell
-django-admin startproject django_ledger_project && cd django_ledger_project
-```
-
-* Install Django on you virtual environment.
-
-```shell
-pipenv install django
-```
-
-* Install Django Ledger
-
-```shell script
-pipenv install django-ledger[graphql,pdf]
-```
-
-* Activate your new virtual environment:
-
-```shell
-pipenv shell
-```
-
-* Add django_ledger to INSTALLED_APPS in you new Django Project.
-
-```python
-INSTALLED_APPS = [
-    ...,
-    'django_ledger',
-    ...,
-]
-```
-
-* Perform database migrations:
-
-```shell
-python manage.py migrate
-```
-
-* Add Django SuperUser and follow the prompts.
-
-```shell
-python manage.py createsuperuser
-```
-
-* Add URLs to your project's __urls.py__:
-
-```python
-from django.urls import include, path
-
-urlpatterns = [
-    ...,
-    path('ledger/', include('django_ledger.urls', namespace='django_ledger')),
-    ...,
-]
-```
-#If you know Django then run dirctly 
-* Run your project:
-
-```shell
-python manage.py runserver
-```
