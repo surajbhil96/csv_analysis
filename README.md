@@ -38,12 +38,9 @@ This project was done by me as a assignment for an internship.
 
 
 # Screenshots : 
-<img ![Demo 1](https://github.com/surajbhil96/csv_analysis/assets/149694041/c2374e2c-34e3-4849-bea7-99a3ade34e5a)>
+![Demo 1](https://github.com/surajbhil96/csv_analysis/assets/149694041/c2374e2c-34e3-4849-bea7-99a3ade34e5a)
 
-<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_51.png" height="400" width="800">
-<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_44.png" height="400" width="800">
-<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_15_47.png" height="400" width="800">
-<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_16_14.png" height="400" width="800">
-<img src="Screenshots/Django WebApp - Google Chrome 04-12-2019 13_41_50.png" height="400" width="800">
-<img src="Screenshots/Django WebApp - Google Chrome 03-12-2019 20_48_45.png" height="400" width="800">
+![Demo 2](https://github.com/surajbhil96/csv_analysis/assets/149694041/ab1fa744-605a-41c4-86b2-6a578ee6bd8d)
 
+
+![Demo 3](https://github.com/surajbhil96/csv_analysis/assets/149694041/1fd4cc38-5c9a-42fd-8814-70e57419cc1b)
