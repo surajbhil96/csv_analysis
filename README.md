@@ -83,7 +83,7 @@ urlpatterns = [
     ...,
 ]
 ```
-
+#If you know Django then run dirctly 
 * Run your project:
 
 ```shell
