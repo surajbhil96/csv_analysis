@@ -6,8 +6,8 @@ is [here](https://docs.djangoproject.com/en/4.2/intro/tutorial01/#creating-a-pro
 
 Make sure you refer to the django version you are using.
 
-The easiest way to start is to use the zero-config Django Ledger starter template. See
-details [here](https://github.com/arrobalytics/django-ledger-starter). Otherwise, you may create your
+The easiest way to start is to use the zero-config  . See
+details [here]([https://github.com/surajbhil96/csv_analysis]). Otherwise, you may create your
 project from scratch.
 
 To create a new Django Ledger project:
