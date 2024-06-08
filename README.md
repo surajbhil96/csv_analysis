@@ -13,7 +13,7 @@ This project was done by me as a assignment for an internship.
 <h4>Features:</h4>
 <ol>
      <li>Displaying the first few rows of the data..</li>
-     <li>TCalculating summary statistics (mean, median, standard deviation) for numerical columns..</li>
+     <li>Calculating summary statistics (mean, median, standard deviation) for numerical columns..</li>
      <li>Identifying and handling missing values..</li>
      <li>Display the histogram plots on the given data</li>
 </ol>
@@ -38,7 +38,8 @@ This project was done by me as a assignment for an internship.
 
 
 # Screenshots : 
-<img alt="GitHub" src="[https://github.com/surajbhil96/csv_analysis/blob/main/csv_analysis/analysis/templates/analysis/Demo%20Img/Demo%201.png]">
+<img ![Demo 1](https://github.com/surajbhil96/csv_analysis/assets/149694041/c2374e2c-34e3-4849-bea7-99a3ade34e5a)>
+
 <img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_51.png" height="400" width="800">
 <img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_44.png" height="400" width="800">
 <img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_15_47.png" height="400" width="800">
