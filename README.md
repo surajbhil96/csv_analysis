@@ -27,17 +27,14 @@ This project was done by me as a assignment for an internship.
 </ul>
 
 <h2>Usage :</h2> 
-    Download the Zip file 
+   Step 1:   Download the Zip file.
+   Step 2:   Unzip File.
+   Step 3:   Open the file in VS code 
+   Step 4:   Download all requirements     as    $ pip install -r requirements.txt
+   step 5:   python manage.py makemigrations
+   Step 6:   python manage.py migrate
+   step 7:    python manage.py runserver
 
-    Unzip this file 
-
-    Open this files in VS Code and run the following commands 
-
-    python django_web_app/manage.py makemigrations
-
-    python django_web_app/manage.py migrate
-
-    python django_web_app/manage.py runserver
     
    In your web browser enter the address : http://localhost:8000 or http://127.0.0.1:8000/
 
