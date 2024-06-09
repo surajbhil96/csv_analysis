@@ -1,4 +1,4 @@
-# Django-WebApp  ## 🛡️ License <a name="license"></a>
+# Django-WebApp  
 Project is distributed under [MIT License](https://github.com/surajbhil96/csv_analysis/blob/main/LICENSE)
 
 ---   
@@ -29,19 +29,31 @@ This project was done by me as a assignment for an internship.
     <li>JavaScript</li>
 </ul>
 
-<h2>Usage :</h2> 
-  
-    Step 1:   Download the Zip file. 
-    Step 2:   Unzip the File.
-    Step 3:   Open that Folder in the VS Code.
-    Step 4:   Download all requirements as         $ pip install -r requirements.txt
-    Step 5:   run command           $ python manage.py makemigrations
-    Step 6:   $ python manage.py migrate
-    Step 7:   $ python manage.py runserver
-    Step 8:   select csv  file  and  click on upload. 
-    Step 9:   you will see the Output.
+ . Clone the repository:
+ ```shell[
+ https://github.com/surajbhil96/csv_analysis.git
+ ```
+ 2. Change to the project directory:
+ ```shell
+ cd csv_analysis
+ ```
+ 3. Install the dependencies:
+ ```shell
+ pip install -r requirements.txt
+ ```
+ 4. Makemigration 
+ ```shell
+ python manage.py makemigrations
+ ```
+ 5. Migrate 
+ ```shell
+ python manage.py migrate
+ ```
+6. Run Server
+   ```shell
+   python manage.py runserver
+   ```
 
-    
    In your web browser enter the address : http://localhost:8000 or http://127.0.0.1:8000/
 
 
