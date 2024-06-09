@@ -29,9 +29,10 @@ This project was done by me as a assignment for an internship.
     <li>JavaScript</li>
 </ul>
 <h2>How to Run :</h2>
+
  1. Clone the repository:
  ```shell[
- https://github.com/surajbhil96/csv_analysis.git
+https://github.com/surajbhil96/csv_analysis.git
  ```
  2. Change to the project directory:
  ```shell
