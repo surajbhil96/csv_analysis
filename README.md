@@ -28,7 +28,7 @@ This project was done by me as a assignment for an internship.
     <li>HTML</li>
     <li>JavaScript</li>
 </ul>
-
+<h2>How to Run :</h2>
  1. Clone the repository:
  ```shell[
  https://github.com/surajbhil96/csv_analysis.git
