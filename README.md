@@ -1,4 +1,5 @@
-# Django-WebApp      
+# Django-WebApp  ## 🛡️ License <a name="license">https://github.com/surajbhil96/csv_analysis/blob/main/LICENSE.md</a>
+Project is distributed under     
 
 This project was done by me as a assignment for an internship.
 
