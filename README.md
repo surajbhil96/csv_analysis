@@ -29,7 +29,7 @@ This project was done by me as a assignment for an internship.
     <li>JavaScript</li>
 </ul>
 
- . Clone the repository:
+ 1. Clone the repository:
  ```shell[
  https://github.com/surajbhil96/csv_analysis.git
  ```
@@ -50,9 +50,9 @@ This project was done by me as a assignment for an internship.
  python manage.py migrate
  ```
 6. Run Server
-   ```shell
-   python manage.py runserver
-   ```
+```shell
+python manage.py runserver
+```
 
    In your web browser enter the address : http://localhost:8000 or http://127.0.0.1:8000/
 
