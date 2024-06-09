@@ -53,6 +53,7 @@ This project was done by me as a assignment for an internship.
 ```shell
 python manage.py runserver
 ```
+7. Upload Csv Sample file 
 
    In your web browser enter the address : http://localhost:8000 or http://127.0.0.1:8000/
 
